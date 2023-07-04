@@ -1,0 +1,21 @@
+<?php
+$_lang['bulktxt'] = 'bulktxt';
+$_lang['bulktxt.desc'] = 'Manage your bulktxt here.';
+$_lang['bulktxt.description'] = 'Description';
+$_lang['bulktxt.bulktxt_err_ae'] = 'A bulktxt with that name already exists.';
+$_lang['bulktxt.bulktxt_err_nf'] = 'Bulktxt not found.';
+$_lang['bulktxt.bulktxt_err_ns'] = 'Bulktxt not specified.';
+$_lang['bulktxt.bulktxt_err_ns_name'] = 'Please specify a name for the bulktxt.';
+$_lang['bulktxt.bulktxt_err_remove'] = 'An error occurred while trying to remove the bulktxt.';
+$_lang['bulktxt.bulktxt_err_save'] = 'An error occurred while trying to save the bulktxt.';
+$_lang['bulktxt.bulktxt_create'] = 'Create New Bulktxt';
+$_lang['bulktxt.bulktxt_remove'] = 'Remove Bulktxt';
+$_lang['bulktxt.bulktxt_remove_confirm'] = 'Are you sure you want to remove this bulktxt?';
+$_lang['bulktxt.bulktxt_update'] = 'Update Bulktxt';
+$_lang['bulktxt.downloads'] = 'Downloads';
+$_lang['bulktxt.location'] = 'Location';
+$_lang['bulktxt.management'] = 'bulktxt Management';
+$_lang['bulktxt.management_desc'] = 'Manage your bulktxt here. You can edit them by either double-clicking on the grid or right-clicking on the respective row.';
+$_lang['bulktxt.name'] = 'Name';
+$_lang['bulktxt.search...'] = 'Search...';
+$_lang['bulktxt.top_downloaded'] = 'Top Downloaded bulktxt';
